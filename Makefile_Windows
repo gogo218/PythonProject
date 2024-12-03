@@ -1,0 +1,19 @@
+.PHONY: setup
+
+ENV ?= my_env
+
+setup:
+	@echo "Setting up environment..."
+	conda create -y -n $(ENV) python
+	conda activate $(ENV)
+
+install:
+	@echo "Installing dependencies..."
+	pip install -r requirements.txt
+
+clean:
+	@echo "Cleaning up..."
+	conda remove -y --name $(ENV) --all
+
+html:
+	sphinx-build -b html docs/source docs/_build/html
