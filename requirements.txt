@@ -1,3 +1,62 @@
-sphinx
-pdm
-sphinx-rtd-theme
+alabaster @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/alabaster_1729041938345/work
+anyio==4.6.2.post1
+babel==2.16.0
+blinker==1.9.0
+Brotli @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/brotli-split_1729038678152/work
+certifi @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/certifi_1729039663717/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+dep-logic==0.4.9
+distlib==0.3.9
+docutils==0.21.2
+filelock==3.16.1
+findpython==0.6.2
+h11==0.14.0
+hishel==0.1.1
+httpcore==1.0.7
+httpx==0.28.0
+idna @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/idna_1729038997316/work
+imagesize @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/imagesize_1729042613392/work
+iniconfig==2.0.0
+installer==0.7.0
+Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
+markdown-it-py==3.0.0
+MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1729039103656/work
+mdurl==0.1.2
+msgpack==1.1.0
+packaging @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/packaging_1729036358816/work
+pbs-installer==2024.10.16
+pdm==2.21.0
+platformdirs==4.3.6
+pluggy==1.5.0
+Pygments==2.18.0
+pyproject_hooks==1.2.0
+PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1729039320841/work
+pytest==8.3.4
+python-dotenv==1.0.1
+pytz @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pytz_1729039375330/work
+requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+resolvelib==1.1.0
+rich==13.9.4
+setuptools==75.1.0
+shellingham==1.5.4
+sniffio==1.3.1
+snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
+socksio==1.0.0
+Sphinx==8.1.3
+sphinx-rtd-theme==3.0.2
+sphinxcontrib-applehelp==2.0.0
+sphinxcontrib-devhelp==2.0.0
+sphinxcontrib-htmlhelp==2.1.0
+sphinxcontrib-jquery==4.1
+sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
+sphinxcontrib-qthelp==2.0.0
+sphinxcontrib-serializinghtml==2.0.0
+tomlkit==0.13.2
+truststore==0.10.0
+typing_extensions==4.12.2
+unearth==0.17.2
+urllib3 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/urllib3_1729040373311/work
+virtualenv==20.28.0
+wheel==0.44.0
+win_inet_pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1729038644686/work
