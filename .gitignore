@@ -1,0 +1,21 @@
+# Ignorer les fichiers générés par Sphinx
+_build/
+.doctrees/
+.buildinfo
+*.html
+searchindex.js
+*.inv
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les dossiers virtuels
+env/
+venv/
+
+# Ignorer les fichiers liés à l'IDE
+.vscode/
+.idea/
+ 

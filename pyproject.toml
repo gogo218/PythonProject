@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "PythonProject"
+version = "0.1.0"
+description = "Project to show how to turn bunch of python files into package, ready to be shared, tested and documented"
+authors = ["Tanguy VOILLOT <tanguy.voillot@estaca.eu>" , "Iniaki Rodriguez <inaki.rodriguezrodriguez@estaca.eu>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+

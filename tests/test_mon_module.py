@@ -1,0 +1,1 @@
+"import unittest\nfrom src.mon_module import ajouter\n\nclass TestMonModule(unittest.TestCase):\n    def test_ajouter(self):\n        self.assertEqual(ajouter(2, 3), 5)\n\nif __name__ == '__main__':\n    unittest.main()" 
